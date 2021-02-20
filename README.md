@@ -12,9 +12,9 @@ This is a simple Authentication app built using Android Studio and Firebase. Thi
 3. JAVA
 4. Firebase Storage and Authentication
 
-#Description
+# Description
 The project has a login and a signup page. New users can signup using there email id's. App checks for passwords with lengths smaller than 6 charcters or empty fields and displays an error accordingly. Once authenticated, the users can upload an image from there mobile which is stored in firebase and is then shown on there screen as can be seen in the above snippets. If any error occurs during the process it is shown to the user in the form of a toast.
 
-#Conclusion
+# Conclusion
 
 This project really helped in understanding the basics of authentication and data storage in firebase and also increased my interest in android development.
